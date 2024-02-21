@@ -1,8 +1,5 @@
 # Computer Vision SkyRemoval COCO Detectron2 Project
 
-
-# Computer Vision Assignment
-
 Link to the original colab notebook : https://colab.research.google.com/drive/1BAN0e6OBdVsgdMc09Bs7V09D2gxre5e4?usp=sharing
 
 The main goal of the assignment is to manipulate COCO-dataset to a new one.
